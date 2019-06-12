@@ -39,7 +39,7 @@
 		<dependency>
 			<groupId>net.milkbowl.vault</groupId>
 			<artifactId>Vault</artifactId>
-			<version>1.6.7</version>
+			<version>1.7.3</version>
 			<scope>provided</scope>
 			<exclusions>
 				<exclusion>
